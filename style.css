@@ -171,3 +171,12 @@
   background-color:#41585e;
   color:white;
 }
+
+foooter {
+  background-color: #41585e;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+}
