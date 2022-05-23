@@ -29,11 +29,12 @@ header {
 }
 
 .heading h1 {
-  color: wheat;
+  color: white;
   padding: 30px 0 0 30px;
   font-size: 60px;
   font-weight: bold;
   font-family: 'Oooh Baby', cursive;
+  text-shadow: 5px 5px 10px #000000;
 }
 
 span {
