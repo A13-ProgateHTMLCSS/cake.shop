@@ -24,6 +24,24 @@
   .custom-section {
     height: 10%;
   }
+
+  .strength-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5px;
+  }
+
+  .strengthness h2{
+    font-size: 30px;
+  }
+  .strength-item h3{
+    font-size: 20px;
+  }
+
+  .strength-item p{
+    font-size: 15px;
+  }
 }
 
 /* Untuk Hp */
@@ -87,7 +105,40 @@
   .about-us {
     text-align: center;
   }
+  
+  .about-us h3{
+    font-size: 25px;
+  }
+  
+  .about-us p{
+    font-size: 15px;
+    line-height: 20px;
+  }
 
+  .strengthness{
+    height: 700px;
+  }
+
+  .strength-bg{
+    height: 700px;
+  }
+  .strength-item{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5px;
+  }
+
+  .strengthness h2{
+    font-size: 30px;
+  }
+  .strength-item h3{
+    font-size: 20px;
+  }
+
+  .strength-item p{
+    font-size: 15px;
+  }
   .footer {
     display: flex;
     justify-content: space-evenly;
