@@ -8,9 +8,9 @@
  }
 
  .container {
-   max-width: 1280px;
+   max-width: 1500px;
    width: 100%;
-   margin: 0 auto 15px auto;
+   margin: 0 auto;
  }
 
  nav {
@@ -141,6 +141,7 @@
      text-align: center;
      height: 110px;
      padding-bottom: 20px;
+     margin-bottom: 15px;
  }
 
  .custom-section p{
@@ -168,13 +169,21 @@
 
 .about-us {
   background-color: #41585e;
+  padding: 30px 10px;
 }
+
 .about-us h3 {
+  font-family: Verdana;
   color: white;
   margin-bottom: 10px;
+  font-size: 30px;
 }
+
 .about-us p {
+  font-family: 'Lucida sans';
+  letter-spacing: 0.3px;
   color: white;
+  font-size: 20px;
 }
 
 .strength-bg{
@@ -236,4 +245,5 @@
   justify-content: space-around;
   background-color: #41585e;
   color: white;
+  padding: 15px 0px;
 }
