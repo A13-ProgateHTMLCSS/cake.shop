@@ -154,6 +154,7 @@
 
  .custom-section a{
      font-family: 'Open Sans', cursive;
+     font-weight: bold;
      font-size: 27.3px;
      background-color: #41585e;
      color: white;
@@ -232,7 +233,7 @@
 
 .strength-item h3{
   font-size: 30px;
-  font-family: 'Open Sans', cursive;
+  font-family: 'Lucida Sans';
   margin-bottom: 5px;
 }
 
