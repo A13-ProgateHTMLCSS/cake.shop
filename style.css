@@ -167,9 +167,15 @@
      transform: scale(1.1);
  }
 
+.about-us {
+  background-color: #41585e;
+}
+.about-us h3 {
+  color: white;
+  margin-bottom: 10px;
+}
 .about-us p {
-  background-color:#41585e;
-  color:white;
+  color: white;
 }
 
 .footer {
