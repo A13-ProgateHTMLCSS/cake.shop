@@ -1,1 +1,15 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .heading h1 {
+    font-size: 50px;
+  }
+}
+
+/* Untuk Hp */
+@media all and (max-width: 670px) {
+  .heading h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+}
 
