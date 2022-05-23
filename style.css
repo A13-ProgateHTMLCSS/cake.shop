@@ -1,7 +1,6 @@
 * {
   margin: 0;
    padding: 0;
-   box-sizing: border-box;
  }
 
  a {
@@ -176,6 +175,60 @@
 }
 .about-us p {
   color: white;
+}
+
+.strength-bg{
+  background-image:url('https://media-public.canva.com/MADGv4ulDHM/7/screen.jpg');  
+  background-size: cover;
+  filter: brightness(0.3);
+  width: 100%;
+  height: 450px;
+}
+
+.strengthness{
+  position: relative;
+}
+
+.strengthness h2{
+  position: absolute;
+  top: 5%;
+  text-align: center;
+  width: 100%;
+  color:white;
+  font-size: 40px;
+  font-family: 'Open Sans', cursive;
+}
+
+
+.strength-items{
+  margin-top: 15px;
+  position: absolute;
+  top: 15%;
+}
+
+.strength-item{
+  padding: 10px 0px;
+  box-sizing: border-box;
+  float: left;
+  width: 47.5%;
+  text-align: center;
+  color: white;
+  margin: 15px;
+}
+
+.strength-item .fa{
+  transform: scale(2);
+  margin-bottom: 10px;
+}
+
+.strength-item h3{
+  font-size: 30px;
+  font-family: 'Open Sans', cursive;
+  margin-bottom: 5px;
+}
+
+.strength-item p{
+  font-size: 20px;
 }
 
 .footer {
